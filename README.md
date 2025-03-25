@@ -82,6 +82,7 @@ pip install -r requirements.txt
 
 ## 🔗 Contact
 Tejinder Singh Hunjan - tejindersingh0784@gmail.com
+
 Project Link: https://github.com/ItsTSH/TradeVista
 
 ## 🚨 DISCLAIMER
