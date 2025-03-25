@@ -81,7 +81,7 @@ pip install -r requirements.txt
 5. Open a Pull Request
 
 ## 🔗 Contact
-Your Name - tejindersingh0784@gmail.com
+Tejinder Singh Hunjan - tejindersingh0784@gmail.com
 Project Link: https://github.com/ItsTSH/TradeVista
 
 ## 🚨 DISCLAIMER
