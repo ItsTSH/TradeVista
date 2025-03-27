@@ -9,7 +9,7 @@ screener = st.Page(
 )
 
 prediction = st.Page(
-    page = "views/prediction_page.py",
+    page = "views/predictions.py",
     title = "TradeVista | Stock Prediction",
     icon = "📈",
 )
