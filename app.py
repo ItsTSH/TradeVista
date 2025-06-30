@@ -3,19 +3,24 @@ import streamlit as st
 # Page Setup
 screener = st.Page(
     page = "views/screener.py",
-    title = "TradeVista | Stock Screener",
+    title = "Stock Screener",
     icon = "📊",
     default = True,
 )
 
+analysis = st.Page(
+    page = "views/analysis.py",
+    title = "Stock Analysis",
+    icon = "🧠"
+)
 prediction = st.Page(
     page = "views/predictions.py",
-    title = "TradeVista | Stock Prediction",
+    title = "Stock Prediction",
     icon = "📈",
 )
 
 # Navigation Setup
-pg = st.navigation(pages = [screener, prediction])
+pg = st.navigation(pages = [screener, analysis, prediction])
 
 # sidebar content
 st.sidebar.text("TradeVista ©️ 2025")
