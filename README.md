@@ -23,6 +23,12 @@ Multiple state-of-the-art prediction models to forecast stock prices:
 - Model comparison and selection
 - Detailed predictive analytics
 
+### 4. Monte Carlo Simulations with Cholesky Decomposition
+- Implementation of Monte Carlo simulations for stock price forecasting
+- Incorporates Cholesky decomposition to model correlated asset returns
+- Provides scenario-based risk analysis and probabilistic forecasting
+- Implemented in Jupyter Notebook for demonstration and testing
+
 ## 🛠 Tech Stack
 - Python
 - Machine Learning Libraries (TensorFlow, Scikit-learn)
